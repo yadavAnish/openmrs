@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module configVersion="1.2">
+	
+	<!-- Base Module Properties -->
+	<id>lafiaemr</id>
+	<name>LAFIAEMR Core Module</name>
+	<version>1.0.0-SNAPSHOT</version>
+	<package>org.openmrs.module.lafiaemr</package>
+	<author>dipakthapa</author>
+	<description>
+			A core module to handle LafiaEMR
+	</description>
+
+	<activator>org.openmrs.module.lafiaemr.LafiaEMRCoreActivator</activator>
+	
+	<!-- <updateURL>https://modules.openmrs.org/modules/download/lafiaemr/update.rdf</updateURL> -->
+	<!-- /Base Module Properties -->
+
+	<require_version>2.6.*</require_version>
+
+	<!-- Maps hibernate files, if present -->
+<!--	<mappingFiles>-->
+<!--		TenantEncounter.hbm.xml-->
+<!--		TenantObs.hbm.xml-->
+<!--		TenantPatient.hbm.xml-->
+<!--		TenantPerson.hbm.xml-->
+<!--	</mappingFiles>-->
+
+	<!-- Internationalization -->
+	<!-- All message codes should start with lafiaemr.* -->
+	<messages>
+		<lang>en</lang>
+		<file>messages.properties</file>
+	</messages>
+	<messages>
+		<lang>fr</lang>
+		<file>messages_fr.properties</file>
+	</messages>
+	<messages>
+		<lang>es</lang>
+		<file>messages_es.properties</file>
+	</messages>
+	<!-- /Internationalization -->
+
+
+	<require_modules>
+    <require_module>org.openmrs.module.webservices.rest</require_module>
+</require_modules>
+<!-- 
+<mappingFiles>
+    CompanyDetails.hbm.xml
+</mappingFiles> -->
+	
+</module>
+

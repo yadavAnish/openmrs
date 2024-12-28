@@ -1,0 +1,7 @@
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/service/CompanyDetailsServiceImpl.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/dao/CompanyDetailsDAOImpl.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/CompanyDetailsService.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/LafiaEMRCoreActivator.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/enums/TenantStatus.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/model/CompanyDetails.java
+/home/anish/Downloads/lafia-openmrs-core-main/api/src/main/java/org/openmrs/module/lafiaemr/api/dao/CompanyDetailsDAO.java

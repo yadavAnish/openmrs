@@ -1,0 +1,7 @@
+org/openmrs/module/lafiaemr/api/CompanyDetailsService.class
+org/openmrs/module/lafiaemr/api/dao/CompanyDetailsDAOImpl.class
+org/openmrs/module/lafiaemr/api/service/CompanyDetailsServiceImpl.class
+org/openmrs/module/lafiaemr/api/dao/CompanyDetailsDAO.class
+org/openmrs/module/lafiaemr/LafiaEMRCoreActivator.class
+org/openmrs/module/lafiaemr/api/model/CompanyDetails.class
+org/openmrs/module/lafiaemr/api/enums/TenantStatus.class
